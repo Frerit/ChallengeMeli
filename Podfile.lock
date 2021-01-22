@@ -1,16 +1,28 @@
 PODS:
   - Alamofire (5.4.1)
+  - CHTCollectionViewWaterfallLayout (0.9.8):
+    - CHTCollectionViewWaterfallLayout/ObjC (= 0.9.8)
+  - CHTCollectionViewWaterfallLayout/ObjC (0.9.8)
+  - SDWebImage (5.10.2):
+    - SDWebImage/Core (= 5.10.2)
+  - SDWebImage/Core (5.10.2)
 
 DEPENDENCIES:
   - Alamofire (~> 5.2)
+  - CHTCollectionViewWaterfallLayout
+  - SDWebImage (~> 5.0)
 
 SPEC REPOS:
   trunk:
     - Alamofire
+    - CHTCollectionViewWaterfallLayout
+    - SDWebImage
 
 SPEC CHECKSUMS:
   Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  CHTCollectionViewWaterfallLayout: 5f241d2480ab4939aa0d1ad4981de9eef1fbe60d
+  SDWebImage: b969dcfc02c40a5da71eac0b03b8f1a0c794a86f
 
-PODFILE CHECKSUM: 3ed13b080f87cfb7bd106efe739de22503df4aac
+PODFILE CHECKSUM: 03f29a618324a9329e45a7eb37c6433e5638beaf
 
 COCOAPODS: 1.10.0

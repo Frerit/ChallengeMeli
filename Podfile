@@ -7,7 +7,8 @@ target 'ChallengerIOS' do
 
   # Pods for ChallengerIOS
   pod 'Alamofire', '~> 5.2'
-
+  pod 'SDWebImage', '~> 5.0'
+  pod 'CHTCollectionViewWaterfallLayout'
 
   target 'ChallengerIOSTests' do
     inherit! :search_paths
