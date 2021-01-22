@@ -7,15 +7,13 @@ Les cuento que esta documentación no es muy detallada tuve algunos temas que me
 1. Las imágenes no tienen certificado por lo que los thumbnail no logre cargarlos.
 2. solo alcance a consumir un servicio
 
-## Contruccion
+# Contruccion
 
-
-# Design Pattern
+## Design Pattern
 
 MVVM
 
-
-# Librerias
+## Librerias
 
 1. Alamifire
 2. SDWebImage 
